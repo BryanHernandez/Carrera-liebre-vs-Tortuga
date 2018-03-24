@@ -1,0 +1,9 @@
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\bin\Debug\Carrera Tortuga vs Libre.exe.config
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\bin\Debug\Carrera Tortuga vs Libre.exe
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\bin\Debug\Carrera Tortuga vs Libre.pdb
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\obj\Debug\Carrera Tortuga vs Libre.csprojResolveAssemblyReference.cache
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\obj\Debug\Carrera_Tortuga_vs_Libre.Form1.resources
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\obj\Debug\Carrera_Tortuga_vs_Libre.Properties.Resources.resources
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\obj\Debug\Carrera Tortuga vs Libre.csproj.GenerateResource.Cache
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\obj\Debug\Carrera Tortuga vs Libre.exe
+E:\Carrera Tortuga vs Libre\Carrera Tortuga vs Libre\obj\Debug\Carrera Tortuga vs Libre.pdb
